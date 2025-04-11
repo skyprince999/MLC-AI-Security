@@ -7,6 +7,6 @@ Overlay specified text on an image with dynamically sized text that fits the ima
 
 | Input | Output |
 |--------|---------|
-| ![Alt text 1](assets/image_007.jpg) | ![Alt text 2](assets/image_007_modified_.jpg) |
+| ![Alt text 1](assets/image_007.jpg) | ![Alt text 2](assets/image_007_modified.jpg) |
 
 
