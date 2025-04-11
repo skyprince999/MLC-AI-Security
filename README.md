@@ -1,2 +1,6 @@
 # MLC-AI-Security
-Set of scrip[ts and notes for he MLC AI Security group
+Set of scripts and notes for he MLC AI Security working group
+
+The python file "text_overlay.py" 
+
+
